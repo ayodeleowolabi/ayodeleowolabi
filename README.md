@@ -21,7 +21,6 @@ Before tech, I was a middle-school math teacher (Teach For America) and I'm stil
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Take Me With You](https://github.com/ayodeleowolabi/take-me-with-you) | Travel log with JWT auth, a REST API and a Leaflet map | MongoDB, Express, React, Node |
 | [howUdoin?](https://github.com/ayodeleowolabi/howyoudoin) | Weekly student self-review tracker, built from my teaching experience | Express, MongoDB, EJS |
 
 ### 🎨 Client work: AO Studio
